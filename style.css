@@ -2,7 +2,8 @@ body{
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    background: linear-gradient(360deg, #7b8185, #7313a3);
+    background: linear-gradient(135deg, #191919, #1d3546);
+    /*background: #191919;*/
     height: 100vh;
     overflow: hidden;
 }
